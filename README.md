@@ -35,6 +35,6 @@ The analytical framework operates through a rigorous three-phase pipeline:
 * **Feature Importance:** XAI validation revealed that the `Credit_Product` status and the engineered `Cluster_Label` were the strongest predictive drivers, significantly outperforming raw metrics like account balance.
 
 ## Author
-
+@All Rights Reserved.
 * **Author:** Nguyen Pham Quynh Trang
 * **Project Reference:** Student Research Report KH.NC.SV.25_15
